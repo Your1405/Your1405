@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning how to use the Unity game engine
 - 📫 How to reach me: 
 -Twitter: @Your1405Gaming
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Your1405)](https://github.com/anuraghazra/github-readme-stats)
